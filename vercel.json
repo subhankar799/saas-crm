@@ -1,0 +1,28 @@
+{
+	"headers": [
+		{
+			"source": "/(.*)",
+			"headers": [
+				{ "key": "Vary", "value": "Accept, Accept-Encoding" },
+				{ "key": "Link", "value": "</llms.txt>; rel=\"describedby\"" }
+			]
+		}
+	],
+	"functions": {
+		"pages/api/ai/blueprint.js": {
+			"maxDuration": 10
+		},
+		"pages/api/ai/build-crm.js": {
+			"maxDuration": 10
+		},
+		"pages/api/ai/chat.js": {
+			"maxDuration": 10
+		}
+	},
+	"crons": [
+		{
+			"path": "/api/cron/publish-blog",
+			"schedule": "30 18 * * *"
+		}
+	]
+}

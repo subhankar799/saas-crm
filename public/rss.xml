@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SaaSCRM Blog — Open-source CRM for founders &amp; vibe coders</title>
+    <link>https://saascrm.site/blog</link>
+    <description>The first open-source Next.js CRM template for business, founders, and vibe coders — guides on templates, AI agents, clinic CRM, and shipping faster.</description>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 24 Sep 2026 00:00:00 GMT</lastBuildDate>
+    <atom:link href="https://saascrm.site/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Clinic Appointment Software for India: Queue, UPI Booking, and Digital Prescriptions</title>
+      <link>https://saascrm.site/blog/clinic-appointment-software-india</link>
+      <guid isPermaLink="true">https://saascrm.site/blog/clinic-appointment-software-india</guid>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
+      <author>shreyvijayvargiya26@gmail.com (Shrey)</author>
+      <description>Independent Indian clinics still run OPD on phone calls and paper. See how a lightweight clinic CRM handles online booking, live token queue, mock UPI, digital Rx, and WhatsApp follow-ups — without a heavy EMR.</description>
+      <enclosure url="https://ovevcjixqq.ufs.sh/f/9pIU2Of3sxTfT69NDR5uGo1IfQ5DLR6MnCzWU3dckPqgwhJZ" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Why Every AI-Built CRM Looks the Same — And How a 15-Minute Spec Fixes It</title>
+      <link>https://saascrm.site/blog/why-every-crm-looks-the-same</link>
+      <guid isPermaLink="true">https://saascrm.site/blog/why-every-crm-looks-the-same</guid>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
+      <author>shreyvijayvargiya26@gmail.com (Shrey)</author>
+      <description>Why AI-generated CRMs look so similar, and how a 15-minute business spec plus a SaaSCRM prompt helps Claude or Cursor build a layout that actually fits your workflow.</description>
+      <enclosure url="https://saascrm.site/og/why-every-crm-looks-the-same.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>I Trained Claude to Build My CRM Using SaaSCRM.site</title>
+      <link>https://saascrm.site/blog/i-trained-claude-to-build-my-crm</link>
+      <guid isPermaLink="true">https://saascrm.site/blog/i-trained-claude-to-build-my-crm</guid>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
+      <author>shreyvijayvargiya26@gmail.com (Shrey)</author>
+      <description>How I packaged SaaSCRM.site into Claude Skills and a Cursor CRM prompt template so Claude scaffolds a frontend CRM from a business description — Next.js or Vite, no generic AI UI.</description>
+      <enclosure url="https://saascrm.site/og/trained-claude-to-build-crm.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>SaaS CRM for Small Business in 2026: What Actually Matters When You&apos;re Choosing One</title>
+      <link>https://saascrm.site/blog/saas-crm-for-small-business-in-2026</link>
+      <guid isPermaLink="true">https://saascrm.site/blog/saas-crm-for-small-business-in-2026</guid>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 GMT</pubDate>
+      <author>shreyvijayvargiya26@gmail.com (Shrey)</author>
+      <description>Most CRM implementations fail from poor adoption, not missing features. A practical 2026 guide to choosing a SaaS CRM for small business — workflow, pricing, AI agents, and templates vs subscriptions.</description>
+      <enclosure url="https://saascrm.site/og/saas-crm-for-small-business-2026.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>How to migrate an Excel or Google Sheets CRM into a real CRM</title>
+      <link>https://saascrm.site/blog/excel-to-crm-migration</link>
+      <guid isPermaLink="true">https://saascrm.site/blog/excel-to-crm-migration</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
+      <author>shreyvijayvargiya26@gmail.com (Shrey)</author>
+      <description>Excel to CRM migration for small business: how to migrate an Excel spreadsheet to CRM or Google Sheets CRM, map fields, deduplicate, and roll out a custom CRM without importing chaos.</description>
+      <enclosure url="https://saascrm.site/og/excel-to-crm-migration.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Free CRM and Top CRM Software: The World Directory</title>
+      <link>https://saascrm.site/blog/free-crm-and-top-crm-directory</link>
+      <guid isPermaLink="true">https://saascrm.site/blog/free-crm-and-top-crm-directory</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
+      <author>shreyvijayvargiya26@gmail.com (Shrey)</author>
+      <description>A living aggregator of free CRM and top CRM SaaS products worldwide — HubSpot, Agile CRM, Twenty CRM, Salesforce, Zoho, Pipedrive, and 80+ more, with referral links from SaaSCRM.</description>
+      <enclosure url="https://saascrm.site/og/free-crm-and-top-crm-directory.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>We Made SaaSCRM Agent-Ready: llms.txt, agents.md, MCP, and an OpenAPI Spec Explained</title>
+      <link>https://saascrm.site/blog/we-made-saascrm-agent-ready-llms-txt</link>
+      <guid isPermaLink="true">https://saascrm.site/blog/we-made-saascrm-agent-ready-llms-txt</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
+      <author>shreyvijayvargiya26@gmail.com (Shrey)</author>
+      <description>Why saascrm.site ships llms.txt, agents.md, an OpenAPI spec, and MCP docs — what each file actually does, what it does not do for AI citations, and how to copy the pattern for your own SaaS.</description>
+      <enclosure url="https://saascrm.site/screenshots-marketing-page/saas-crm-dashboard.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Agency CRM: How to Manage Leads, Clients, Projects and Invoices in One System</title>
+      <link>https://saascrm.site/blog/agency-crm</link>
+      <guid isPermaLink="true">https://saascrm.site/blog/agency-crm</guid>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 GMT</pubDate>
+      <author>shreyvijayvargiya26@gmail.com (Shrey)</author>
+      <description>An agency CRM connects leads, pipeline, clients, projects, tasks, invoices, and payments in one system — so agencies stop running sales and delivery in five different tools.</description>
+      <enclosure url="https://saascrm.site/og/agency-crm.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>AI-Automated Reddit Trend Scraper that Saved Us $1,000/Month on Content Creation</title>
+      <link>https://saascrm.site/blog/ai-reddit-trend-scraper-saved-1000-month-content-creation</link>
+      <guid isPermaLink="true">https://saascrm.site/blog/ai-reddit-trend-scraper-saved-1000-month-content-creation</guid>
+      <pubDate>Sat, 29 Aug 2026 00:00:00 GMT</pubDate>
+      <author>shreyvijayvargiya26@gmail.com (Shrey)</author>
+      <description>How we used SaaSCRM.site, Hono, OpenRouter, and ScrapeFast to build a Reddit trend-scraping AI agent for marketing — saving 4+ hours/day and ~$1,000/month on content research.</description>
+      <enclosure url="https://saascrm.site/og/reddit-trend-scraper-ai-agent.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Next.js shadcn CRM CMS Admin Template – The Ultimate Solution for Modern Businesses</title>
+      <link>https://saascrm.site/blog/nexts-shade-crm-cms-admin-template</link>
+      <guid isPermaLink="true">https://saascrm.site/blog/nexts-shade-crm-cms-admin-template</guid>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 GMT</pubDate>
+      <author>shreyvijayvargiya26@gmail.com (Shrey)</author>
+      <description>Discover the Next.js shadcn CRM CMS Admin Template – a powerful, customizable dashboard solution built with React, Tailwind CSS, and shadcn/ui. Perfect for startups, agencies, and enterprises looking to manage customers, content, and operations efficiently.</description>
+      <enclosure url="https://saascrm.site/blog-banner-nexts-shade-crm-cms-admin-template.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Best CRM for Small Businesses and Startups</title>
+      <link>https://saascrm.site/blog/best-crm-for-small-businesses-and-startups</link>
+      <guid isPermaLink="true">https://saascrm.site/blog/best-crm-for-small-businesses-and-startups</guid>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+      <author>shreyvijayvargiya26@gmail.com (Shrey)</author>
+      <description>Looking for the best CRM for startups and small companies? Compare a cool, cheap HubSpot alternative with free open-source CRMs, Frappe, Twenty, and an AI CRM you can plan in two minutes.</description>
+      <enclosure url="https://saascrm.site/og/best-crm-for-small-businesses.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>How we shipped a Finance CRM for an Australian accounting client (and why the SaaSCRM template mattered)</title>
+      <link>https://saascrm.site/blog/building-finance-crm-for-australian-client</link>
+      <guid isPermaLink="true">https://saascrm.site/blog/building-finance-crm-for-australian-client</guid>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
+      <author>shreyvijayvargiya26@gmail.com (Shrey)</author>
+      <description>A quiet case study: we built a purpose-built finance workspace for an Australian bookkeeping/tax client — budgets, ATO-oriented PDFs, e-sign, bank statements, and an AI assistant — on top of our SaaSCRM foundation. Plus a note on 12 Gumroad sales.</description>
+      <enclosure url="https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=1200&amp;h=630&amp;fit=crop" type="image/jpeg" />
+    </item>
+    <item>
+      <title>6 CRM templates you can demo today (and the full kit when you’re ready)</title>
+      <link>https://saascrm.site/blog/six-crm-templates-you-can-demo-today</link>
+      <guid isPermaLink="true">https://saascrm.site/blog/six-crm-templates-you-can-demo-today</guid>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 GMT</pubDate>
+      <author>shreyvijayvargiya26@gmail.com (Shrey)</author>
+      <description>A quick tour of SaaSCRM’s six vertical templates — Indie Stripe, Agency, Freelancer, Creator, Digital Store, and Ecommerce CMS — why they exist, how to use each one, and when to grab the full kit.</description>
+      <enclosure url="https://saascrm.site/templates-page.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Plan your CRM in 2 minutes with the AI Builder</title>
+      <link>https://saascrm.site/blog/plan-your-crm-in-2-minutes-with-ai-builder</link>
+      <guid isPermaLink="true">https://saascrm.site/blog/plan-your-crm-in-2-minutes-with-ai-builder</guid>
+      <pubDate>Sat, 25 Jul 2026 00:00:00 GMT</pubDate>
+      <author>shreyvijayvargiya26@gmail.com (Shrey)</author>
+      <description>A free AI CRM planner that maps pages, stack, timeline, and Cursor prompts — then helps you build on the SaaSCRM template.</description>
+      <enclosure url="https://saascrm.site/ai-builder-saas-crm.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Why I Keep Building CRM Templates Even Though They’re “Boring”</title>
+      <link>https://saascrm.site/blog/why-i-keep-building-crm-templates</link>
+      <guid isPermaLink="true">https://saascrm.site/blog/why-i-keep-building-crm-templates</guid>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 GMT</pubDate>
+      <author>shreyvijayvargiya26@gmail.com (Shrey)</author>
+      <description>CRM templates aren’t flashy — but every growing business needs an admin layer. Why I keep shipping React + Tailwind CRM, CMS, and admin systems.</description>
+      <enclosure url="https://saascrm.site/screenshots-marketing-page/saas-crm-analytics.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Why your business needs a CRM — and how SAAS CRM helps</title>
+      <link>https://saascrm.site/blog/why-your-business-needs-a-crm</link>
+      <guid isPermaLink="true">https://saascrm.site/blog/why-your-business-needs-a-crm</guid>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 GMT</pubDate>
+      <author>shreyvijayvargiya26@gmail.com (Shrey)</author>
+      <description>Shrey, creator of SAASCRM.site, on why CRM beats tab chaos — and how the SAAS CRM admin + CMS template helps startups, agencies, and indie hackers ship faster.</description>
+      <enclosure url="https://saascrm.site/screenshots-marketing-page/saas-crm-dashboard.png" type="image/jpeg" />
+    </item>
+  </channel>
+</rss>
